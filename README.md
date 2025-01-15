@@ -1,0 +1,1 @@
+Welcome to WikiPediaaa, a simple web project dedicated to providing information about the popular tactical first-person shooter game, Crossfire. This project serves as a practice exercise in web development, utilizing only HTML and CSS to create a clean and informative webpage.
